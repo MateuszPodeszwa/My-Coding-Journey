@@ -1,1 +1,0 @@
-Explain What this order is about, and if the asset requires license.

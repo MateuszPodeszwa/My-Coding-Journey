@@ -1,1 +1,0 @@
-You should create readme.md and include all necessary information, you should also include the way the course should be accessed. It may be less necessary if you structure your course well such as lesson 1 lesson 2 lesson 3 etc. So it showcases a clear way how to..
