@@ -1,0 +1,1 @@
+It is up to you how you are going to structure this directory. You may use one big folder that contain all files, or you may chunk it down to several sub categories such as beginners, intermediate, advanced etc.
