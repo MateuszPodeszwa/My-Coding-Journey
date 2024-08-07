@@ -1,4 +1,4 @@
-# My Coding Journey (MCY)
+# My Coding Journey (MCJ)
 
 Welcome to "My Coding Journey," a repository dedicated to sharing and learning about coding experiences. This repository, abbreviated as MCY, serves as a platform for developers of all levels to explore various programming topics, from basic concepts to advanced techniques.
 
